@@ -1,0 +1,91 @@
+#Logs for Redmi4 (MIUI10) (Nougat)
+
+PS C:\Users\seervi> adb shell
+
+#Misc
+santoni:/ $ pm uninstall -k --user 0 com.cmcm.indianews_for_oem
+Success
+santoni:/ $ pm uninstall -k --user 0 com.dsi.ant.server
+Success
+santoni:/ $ pm uninstall -k --user 0 com.newsdog
+Success
+santoni:/ $ pm uninstall -k --user 0 com.swiftkey.languageprovider
+Success
+santoni:/ $ pm uninstall -k --user 0 com.swiftkey.swiftkeyconfigurator
+Success
+santoni:/ $ pm uninstall -k --user 0 com.touchtype.swiftkey
+Success
+
+#Xiaomi
+santoni:/ $ pm uninstall -k --user 0 com.xiaomi.glgm
+Success
+santoni:/ $ pm uninstall -k --user 0 com.xiaomi.joyose
+Success
+santoni:/ $ pm uninstall -k --user 0 com.xiaomi.mipicks
+Success
+santoni:/ $ pm uninstall -k --user 0 com.xiaomi.payment
+Success
+
+#MIUI
+santoni:/ $ pm uninstall -k --user 0 com.miui.analytics
+Success
+santoni:/ $ pm uninstall -k --user 0 com.miui.android.fashiongallery
+Success
+santoni:/ $ pm uninstall -k --user 0 com.miui.bugreport
+Success
+santoni:/ $ pm uninstall -k --user 0 com.miui.hybrid
+Success
+santoni:/ $ pm uninstall -k --user 0 com.miui.msa.global
+Success
+santoni:/ $ pm uninstall -k --user 0 com.miui.player
+Success
+santoni:/ $ pm uninstall -k --user 0 com.miui.userguide
+Success
+santoni:/ $ pm uninstall -k --user 0 com.miui.videoplayer
+Success
+santoni:/ $ pm uninstall -k --user 0 com.miui.weather2
+Success
+santoni:/ $ pm uninstall -k --user 0 com.miui.yellowpage
+Success
+
+#Mi
+santoni:/ $ pm uninstall -k --user 0 com.mi.android.globalpersonalassistant
+Success
+santoni:/ $ pm uninstall -k --user 0 com.mi.dlabs.vr
+Success
+santoni:/ $ pm uninstall -k --user 0 com.mi.global.bbs
+Success
+santoni:/ $ pm uninstall -k --user 0 com.mi.global.shop
+Success
+santoni:/ $ pm uninstall -k --user 0 com.mipay.wallet.in
+Success
+
+#Google
+santoni:/ $ pm uninstall -k --user 0 com.google.android.feedback
+Success
+santoni:/ $ pm uninstall -k --user 0 com.google.android.gm
+Success
+santoni:/ $ pm uninstall -k --user 0 com.google.android.music
+Success
+santoni:/ $ pm uninstall -k --user 0 com.google.android.videos
+Success
+
+#Android
+santoni:/ $ pm uninstall -k --user 0 com.android.browser
+Success
+santoni:/ $ pm uninstall -k --user 0 com.android.chrome
+Success
+santoni:/ $ pm uninstall -k --user 0 com.android.thememanager
+Success
+santoni:/ $ pm uninstall -k --user 0 com.android.wallpaper.livepicker
+Success
+
+#Facebook
+santoni:/ $ pm uninstall -k --user 0 com.facebook.appmanager
+Success
+santoni:/ $ pm uninstall -k --user 0 com.facebook.services
+Success
+santoni:/ $ pm uninstall -k --user 0 com.facebook.system
+Success
+
+santoni:/ $
