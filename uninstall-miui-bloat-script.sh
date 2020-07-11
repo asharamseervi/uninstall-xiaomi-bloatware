@@ -40,6 +40,12 @@ com.android.wallpaper.livepicker
 com.facebook.appmanager
 com.facebook.services
 com.facebook.system
+com.micredit.in
+com.mipay.wallet.id
+com.miui.miservice
+com.xiaomi.mirecycle
+com.mi.android.globalminusscreen
+com.google.android.apps.tachyon
 )
 
 for X in ${uninstall[@]}
