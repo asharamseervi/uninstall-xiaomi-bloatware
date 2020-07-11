@@ -14,6 +14,7 @@ pm uninstall -k --user 0 com.xiaomi.glgm
 pm uninstall -k --user 0 com.xiaomi.joyose
 pm uninstall -k --user 0 com.xiaomi.mipicks
 pm uninstall -k --user 0 com.xiaomi.payment
+pm uninstall -k --user 0 com.xiaomi.mirecycle
 
 #MIUI
 pm uninstall -k --user 0 com.miui.analytics
@@ -26,19 +27,25 @@ pm uninstall -k --user 0 com.miui.userguide
 pm uninstall -k --user 0 com.miui.videoplayer
 pm uninstall -k --user 0 com.miui.weather2
 pm uninstall -k --user 0 com.miui.yellowpage
+pm uninstall -k --user 0 com.miui.miservice
 
 #Mi
-pm uninstall -k --user 0 com.mi.android.globalpersonalassistant
 pm uninstall -k --user 0 com.mi.dlabs.vr
 pm uninstall -k --user 0 com.mi.global.bbs
 pm uninstall -k --user 0 com.mi.global.shop
 pm uninstall -k --user 0 com.mipay.wallet.in
+pm uninstall -k --user 0 com.micredit.in
+pm uninstall -k --user 0 com.mipay.wallet.id
+pm uninstall -k --user 0 com.mi.android.globalminusscreen
+pm uninstall -k --user 0 com.mi.android.globalpersonalassistant
+
 
 #Google
-pm uninstall -k --user 0 com.google.android.feedback
 pm uninstall -k --user 0 com.google.android.gm
 pm uninstall -k --user 0 com.google.android.music
 pm uninstall -k --user 0 com.google.android.videos
+pm uninstall -k --user 0 com.google.android.feedback
+pm uninstall -k --user 0 com.google.android.apps.tachyon
 
 #Android
 pm uninstall -k --user 0 com.android.browser
