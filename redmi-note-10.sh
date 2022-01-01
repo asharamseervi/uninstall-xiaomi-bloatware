@@ -1,0 +1,9 @@
+pm uninstall -k --user 0 com.google.android.apps.subscriptions.red
+pm uninstall -k --user 0 com.google.android.apps.nbu.paisa.user
+pm uninstall -k --user 0 com.google.android.apps.chromecast.app
+pm uninstall -k --user 0 com.google.android.apps.nbu.files
+pm uninstall -k --user 0 com.google.android.inputmethod.latin
+pm uninstall -k --user 0 com.google.android.apps.photos
+pm uninstall -k --user 0 com.google.android.ims
+pm uninstall -k --user 0 com.google.android.apps.restore
+pm uninstall -k --user 0 com.google.android.apps.turbo
